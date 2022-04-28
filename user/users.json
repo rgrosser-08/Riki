@@ -1,0 +1,44 @@
+{
+  "name": {
+    "active": true,
+    "authentication_method": "cleartext",
+    "password": "1234",
+    "authenticated": false,
+    "roles": []
+  },
+  "sam": {
+    "active": true,
+    "authentication_method": "cleartext",
+    "password": "1234",
+    "authenticated": true,
+    "roles": []
+  },
+  "ryan": {
+    "active": true,
+    "roles": [],
+    "authentication_method": "cleartext",
+    "authenticated": false,
+    "password": "name"
+  },
+  "bobby": {
+    "active": true,
+    "roles": [],
+    "authentication_method": "cleartext",
+    "authenticated": false,
+    "password": "1234"
+  },
+  "bill": {
+    "active": true,
+    "roles": [],
+    "authentication_method": "cleartext",
+    "authenticated": false,
+    "password": "fart"
+  },
+  "Tom": {
+    "active": true,
+    "roles": [],
+    "authentication_method": "cleartext",
+    "authenticated": false,
+    "password": "f"
+  }
+}
